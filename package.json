@@ -5,6 +5,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@dcloudio/uni-app": "^3.0.0-alpha-3090120230923001",
     "@types/lodash-es": "^4.17.9",
     "@typescript-eslint/parser": "^6.7.0",
     "eslint": "^8.49.0",
